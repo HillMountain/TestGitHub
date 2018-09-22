@@ -1,2 +1,2 @@
 # TestGitHub
-Teas av GitHub
+Test av GitHub
